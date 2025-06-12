@@ -1,0 +1,2 @@
+# WebCrawler
+ Az simple web crawler built using Scrapy and Flask that allows users to extract key content from any webpage. By entering a URL into the web interface, the application crawls the specified page and retrieves useful information such as all hyperlinks, image sources, and visible text content like paragraphs and headings. The results are then displayed in a clean and user-friendly format, making it a handy tool for content analysis, research, or web scraping practice.
